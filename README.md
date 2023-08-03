@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Roghan</h1>
 <h3 align="center">A passionate Software developer and Interested in all things coding.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/72/32/1d/72321d5e7fb1581327ab8c0cc6f9d39c.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roghan-j&label=Profile%20views&color=0e75b6&style=flat" alt="roghan-j" /> </p>
 
